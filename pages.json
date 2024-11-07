@@ -1,0 +1,209 @@
+{
+	"easycom": {
+		"echarts":   
+		"@/components/echarts-uniapp/echarts-uniapp.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "展汇通"
+			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录"
+			}
+		},
+		{
+			"path" : "pages1/zhouyejipaihang/zhouyejipaihang",
+			"style" : 
+			{
+				"navigationBarTitleText" : "周业绩排行"
+			}
+		},
+		{
+			"path" : "pages1/hetongList/hetongList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "合同列表"
+			}
+		},
+		{
+			"path" : "pages1/hetongInfo/hetongInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "合同详情"
+			}
+		},
+		{
+			"path" : "pages1/zhanweiList/zhanweiList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "展位列表"
+			}
+		},
+		{
+			"path" : "pages1/yudengji/yudengji",
+			"style" : 
+			{
+				"navigationBarTitleText" : "预登记"
+			}
+		},
+		{
+			"path" : "pages/wode/wode",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人中心"
+			}
+		},
+		{
+			"path" : "pages1/PIE/PIE",
+			"style" : 
+			{
+				"navigationBarTitleText" : "圆饼"
+			}
+		},
+		{
+			"path" : "pages1/addContract/addContract",
+			"style" : 
+			{
+				"navigationBarTitleText" : "创建合同"
+			}
+		},
+		{
+			"path" : "pages1/signView/signView",
+			"style" : 
+			{
+				"navigationBarTitleText" : "签名"
+			}
+		},
+		{
+			"path" : "pages/reguster/reguster",
+			"style" : 
+			{
+				"navigationBarTitleText" : "注册"
+			}
+		},
+		{
+			"path" : "pages1/addZhang/addZhang",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加电子章"
+			}
+		},
+		{
+			"path" : "pages1/chapterList/chapterList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "章列表"
+			}
+		},
+		{
+			"path" : "pages2/updateUserInfo/updateUserInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人信息"
+			}
+		},
+		{
+			"path" : "pages2/exhibitorList/exhibitorList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "展商列表"
+			}
+		},
+		{
+			"path" : "pages2/yewuyuanQianzi/yewuyuanQianzi",
+			"style" : 
+			{
+				"navigationBarTitleText" : "签字"
+			}
+		},
+		{
+			"path" : "pages2/qiyeSign/qiyeSign",
+			"style" : 
+			{
+				"navigationBarTitleText" : "企业签字"
+			}
+		},
+		{
+			"path" : "pages/tongjitu/tongjitu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "统计展示"
+			}
+		},
+		{
+			"path" : "pages/tongjitu1/tongjitu1",
+			"style" : 
+			{
+				"navigationBarTitleText" : "统计图1"
+			}
+		},
+		{
+			"path" : "pages2/fukuanjilu/fukuanjilu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "付款记录"
+			}
+		},
+		{
+			"path" : "pages2/fukuanAdd/fukuanAdd",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加打款记录"
+			}
+		},
+		{
+			"path" : "pages2/caiwu/caiwu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "财务"
+			}
+		},
+		{
+			"path" : "pages3/cwSKlist/cwSKlist",
+			"style" : 
+			{
+				"navigationBarTitleText" : "财务收款集合"
+			}
+		},
+		{
+			"path" : "pages3/daozhangPaihang/daozhangPaihang",
+			"style" : 
+			{
+				"navigationBarTitleText" : "到账排行"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "展汇通",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"borderStyle": "white",
+		"backgroundColor": "#FFF",
+		"selectedColor": "#E60121",
+		"color": "#8a8a8a",
+		"list": [
+			{
+				"text": "首页",
+				"pagePath": "pages/index/index",
+				"iconPath": "static/shouye1.png",
+				"selectedIconPath": "static/shouye2.png"
+			},
+			{
+				"text": "我的",
+				"pagePath": "pages/wode/wode",
+				"iconPath": "static/wode1.png",
+				"selectedIconPath": "static/wode2.png"
+			}
+		]
+	}
+}

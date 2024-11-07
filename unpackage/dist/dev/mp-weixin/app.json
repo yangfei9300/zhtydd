@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages1/zhouyejipaihang/zhouyejipaihang",
+    "pages1/hetongList/hetongList",
+    "pages1/hetongInfo/hetongInfo",
+    "pages1/zhanweiList/zhanweiList",
+    "pages1/yudengji/yudengji",
+    "pages/wode/wode",
+    "pages1/PIE/PIE",
+    "pages1/addContract/addContract",
+    "pages1/signView/signView",
+    "pages/reguster/reguster",
+    "pages1/addZhang/addZhang",
+    "pages1/chapterList/chapterList",
+    "pages2/updateUserInfo/updateUserInfo",
+    "pages2/exhibitorList/exhibitorList",
+    "pages2/yewuyuanQianzi/yewuyuanQianzi",
+    "pages2/qiyeSign/qiyeSign",
+    "pages/tongjitu/tongjitu",
+    "pages/tongjitu1/tongjitu1",
+    "pages2/fukuanjilu/fukuanjilu",
+    "pages2/fukuanAdd/fukuanAdd",
+    "pages2/caiwu/caiwu",
+    "pages3/cwSKlist/cwSKlist",
+    "pages3/daozhangPaihang/daozhangPaihang"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "展汇通",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "backgroundColor": "#FFF",
+    "selectedColor": "#E60121",
+    "color": "#8a8a8a",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/shouye1.png",
+        "selectedIconPath": "static/shouye2.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/wode/wode",
+        "iconPath": "static/wode1.png",
+        "selectedIconPath": "static/wode2.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

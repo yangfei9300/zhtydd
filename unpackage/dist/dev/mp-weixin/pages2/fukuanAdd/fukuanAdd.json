@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "添加打款记录",
+  "usingComponents": {
+    "lee-datetime": "/components/lee-datetime/lee-datetime"
+  }
+}

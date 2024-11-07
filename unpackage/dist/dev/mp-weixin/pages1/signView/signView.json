@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "签名",
+  "usingComponents": {
+    "jianweikaifa-sign": "/uni_modules/jianweikaifa-sign/components/jianweikaifa-sign/jianweikaifa-sign"
+  }
+}

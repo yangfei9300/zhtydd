@@ -1,0 +1,12 @@
+.topview {
+	width: 750rpx;
+	height: 222rpx;
+	background: #2589FF;
+}
+.menuview {
+	position: relative;
+	top: -50rpx;
+	border-radius: 20rpx 20rpx 0rpx 0rpx;
+	left: 20rpx;
+}
+

@@ -1,0 +1,12 @@
+.huanha{
+	word-wrap: break-word;
+}
+.sousuobtn{
+	width: 150rpx;
+	height: 60rpx;
+	background-color: #E60121;
+	text-align: center;
+	color: white;
+	line-height: 60rpx;
+	border-radius: 10rpx;
+}

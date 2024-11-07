@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "统计图1",
+  "usingComponents": {
+    "echarts": "/components/echarts-uniapp/echarts-uniapp"
+  }
+}

@@ -1,0 +1,31 @@
+.btrn1 {
+	width: 650rpx;
+	height: 90rpx;
+	text-align: center;
+	line-height: 90rpx;
+	background: linear-gradient(90deg, #FF5044, #E60121);
+	box-shadow: 0rpx 0rpx 10rpx 0rpx rgba(254, 76, 66, 0.56);
+	border-radius: 45rpx;
+	color: white;
+}
+.sshtong{
+	width: 750rpx;
+	position: fixed;bottom: 0rpx;
+	left: 0rpx;
+	background-color: white;
+	height: 750rpx;
+	border-radius: 20rpx 20rpx 0rpx 0rpx;
+}
+.sousuobtn{
+	line-height: 60rpx;
+	padding:0rpx 40rpx;
+	background-color: #1296db;
+	font-size: 30rpx;
+	color: white;
+	border-radius: 10rpx;
+}
+.selimg{
+	border:2px solid red;
+	border-radius: 10rpx;
+}
+

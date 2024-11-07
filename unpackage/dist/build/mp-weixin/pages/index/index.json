@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "展汇通",
+  "usingComponents": {
+    "echarts": "/components/echarts-uniapp/echarts-uniapp"
+  }
+}

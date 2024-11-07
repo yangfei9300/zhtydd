@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "付款记录",
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs"
+  }
+}

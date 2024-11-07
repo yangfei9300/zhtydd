@@ -1,0 +1,6 @@
+.bottomaleretview{
+	width: 750rpx;
+	height: 750rpx;
+	background-color: white;
+	position: fixed;bottom: 0rpx;
+}

@@ -1,0 +1,1 @@
+<view class="content"><view class="content"><jianweikaifa-sign vue-id="139ceaea-1" title="{{title}}" lineWidth="{{8}}" disabled="{{false}}" data-event-opts="{{[['^input',[['getData']]],['^close',[['getClose']]]]}}" bind:input="__e" bind:close="__e" bind:__l="__l"></jianweikaifa-sign></view></view>

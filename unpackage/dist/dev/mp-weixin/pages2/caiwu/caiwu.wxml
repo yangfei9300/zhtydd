@@ -1,0 +1,1 @@
+<view><view class="colonn"><view data-event-opts="{{[['tap',[['topage',[1]]]]]}}" class="p-all-20 border_bottom" catchtap="__e">添加打款记录</view><view data-event-opts="{{[['tap',[['topage',[2]]]]]}}" class="p-all-20 border_bottom" catchtap="__e">打款记录列表</view></view></view>

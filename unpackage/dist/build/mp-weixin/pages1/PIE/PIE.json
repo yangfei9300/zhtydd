@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "圆饼",
+  "usingComponents": {
+    "echarts": "/components/echarts-uniapp/echarts-uniapp"
+  }
+}

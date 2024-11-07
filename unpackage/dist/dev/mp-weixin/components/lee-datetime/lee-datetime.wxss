@@ -1,0 +1,10 @@
+
+.lee-datetime-main.data-v-3884db04 {
+	min-width: 200rpx;
+	min-height: 50rpx;
+}
+.lee-datetime-text.data-v-3884db04 {
+	color: #888A88;
+	padding: 10rpx;
+}
+

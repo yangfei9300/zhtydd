@@ -1,0 +1,23 @@
+.titleleft{
+	font-size: 30rpx;font-weight: bold;padding:30rpx 30rpx 15rpx 30rpx;
+}
+.btrn1 {
+	width: 650rpx;
+	height: 90rpx;
+	text-align: center;
+	line-height: 90rpx;
+	background: linear-gradient(90deg, #FF5044, #E60121);
+	box-shadow: 0rpx 0rpx 10rpx 0rpx rgba(254, 76, 66, 0.56);
+	border-radius: 45rpx;
+	color: white;
+}
+.bottomzhangview{
+	width: 750rpx;
+	height: 750rpx;
+	background-color: white;
+	position: absolute;
+	bottom: 0rpx;
+	left: 0rpx;
+	border-radius: 25rpx 25rpx 0rpx 0rpx;
+}
+
